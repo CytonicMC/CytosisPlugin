@@ -1,0 +1,11 @@
+{
+  "id": "example-plugin",
+  "name": "Example Cytosis Plugin",
+  "version": "1.0-SNAPSHOT",
+  "description": "An example plugin for Cytosis",
+  "authors": [
+    "Cytosis Developers"
+  ],
+  "dependencies": [],
+  "main": "net.cytonic.plugin.Main"
+}

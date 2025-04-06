@@ -1,4 +1,4 @@
-package net.cytonic;
+package net.cytonic.plugin;
 
 import net.cytonic.cytosis.plugins.CytosisPlugin;
 import net.cytonic.cytosis.plugins.Plugin;
